@@ -1,0 +1,7 @@
+item,price,flagged,note
+Staple A,100,False,Illustrative comparison value
+Staple A,102,False,Illustrative comparison value
+Staple A,104,False,Illustrative comparison value
+Staple A,108,False,Illustrative comparison value
+Staple A,110,False,Illustrative comparison value
+Staple A,1250,True,Flagged value 1250 was mentioned in the previous Assignment 2 draft; full source CSV was not supplied.
